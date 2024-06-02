@@ -5,7 +5,7 @@
     <url>https://github.com/sleepy068/Rimworld_Flooring</url>
     <packageId>sleepy068.flooring1</packageId>
     <supportedVersions>
-		<li>1.4</li>
+		<li>1.5</li>
     </supportedVersions>
 
     <description>
@@ -46,11 +46,10 @@ English (Always Latest)(Developed in this Language)
 
 Latest Version:
 https://github.com/sleepy068/Rimworld_Flooring
+
     </description>
 
     <modDependencies>
-	<li>
-	</li>
     </modDependencies>
     <modDependenciesByVersion>
     </modDependenciesByVersion>
